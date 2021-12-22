@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "productTitle": "Iphone 13",
+    "description": "Excellent smartphone",
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/Apple/iPhone_13_Pro/Produktfotos_Apple_iPhone_13_Pro_1448.jpg",
+    "submitterUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGVvcGxlJTIwZG9pbmclMjB0aGluZ3N8ZW58MHx8MHx8&w=1000&q=80",
+    "likes": 1
+  },
+  {
+    "id": 2,
+    "productTitle": "Pant",
+    "description": "Good Pant",
+    "imageUrl": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/AANDOQM.jpg",
+    "submitterUrl": "https://st3.depositphotos.com/15447460/19063/i/600/depositphotos_190633168-stock-photo-portrait-of-a-pimply-teenage.jpg",
+    "likes": 2
+  },
+  {
+    "id": 3,
+    "productTitle": "Watch",
+    "description": "Good Watch",
+    "imageUrl": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp-spacegray-select-202011_GEO_US?wid=904&hei=840&fmt=jpeg&qlt=80&.v=1632948875000",
+    "submitterUrl": "https://us.123rf.com/450wm/annanahabed/annanahabed1807/annanahabed180700083/106322692-outdoor-portrait-of-cute-preteen-10-11-year-old-girl.jpg?ver=6",
+    "likes": 3
+  },
+  {
+    "id": 4,
+    "productTitle": "Pen",
+    "description": "Good Pen",
+    "imageUrl": "https://fscl01.fonpit.de/userfiles/7682239/image/samsung-galaxy-z-fold-2-hero.jpg",
+    "submitterUrl": "https://us.123rf.com/450wm/dolgachov/dolgachov1607/dolgachov160703114/59680151-people-and-portrait-concept-happy-woman-face.jpg?ver=6",
+    "likes": 4
+  },
+  {
+    "id": 5,
+    "productTitle": "Paper",
+    "description": "Good Paper",
+    "imageUrl": "https://www.xda-developers.com/files/2021/08/Samsung-Galaxy-Buds2-Colors7-9864-1024x768.jpg",
+    "submitterUrl": "https://us.123rf.com/450wm/ufabizphoto/ufabizphoto2008/ufabizphoto200811440/153980825-portrait-of-thoughtful-serious-boy-with-natural-red-hair-boy-in-contemplation.jpg?ver=6",
+    "likes": 5
+  }
+]
